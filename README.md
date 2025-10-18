@@ -14,8 +14,6 @@ The marked (target) state is `|0101⟩`.
 ## 📸 Circuit Screenshot
 ![Grover 4-Qubit Circuit](image1.png)
 
-
-
 ---
 
 ## 🧠 How to Run (using Qiskit)
