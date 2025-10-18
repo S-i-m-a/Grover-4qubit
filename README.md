@@ -12,7 +12,8 @@ The marked (target) state is `|0101⟩`.
 ---
 
 ## 📸 Circuit Screenshot
-![Grover 4-Qubit Circuit](image1.png)
+![Grover 4-Qubit Circui<img width="1908" height="879" alt="image1" src="https://github.com/user-attachments/assets/71611438-4b56-47ba-a91f-82d092b830dd" />
+t](image1.png)
 
 ---
 
